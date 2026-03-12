@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיצה רז מזמינה אתכם לחוויה משפחתית אמיתית בפיצרייה שלנו. מיקומים בצור משה ועין שריד. פיצה איכותית באווירה ביתית וחמה שכל המשפחה תאהב!
+
+### תפריט
+https://example.com/menu
+גלו את תפריט הפיצות המשפחתי שלנו! מגוון טעמים, מרכיבים טריים ומתכונים ביתיים. בואו לטעום את ההבדל בפיצרייה שמכירה את הטעם של בית.
+
+### אודות
+https://example.com/about
+פיצה רז היא יותר מפיצרייה - זה בית משפחתי בשני מושבים. הכירו את הערכים, הקהילה והאווירה החמה שהופכת אותנו לפיצרייה האהובה על המשפחות.
+
+### צור קשר
+https://example.com/contact
+רוצים פיצה טעימה הערב? צרו איתנו קשר או בואו לבקר בסניפים שלנו בצור משה ועין שריד. נשמח לארח את המשפחה שלכם בחוויה קולינרית ביתית!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
